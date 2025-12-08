@@ -1,0 +1,5 @@
+file_name,structure,output,functions,pseudocode,variables,total,reason
+program2_stu_correct.py,100,100.0,100,100,100,90.0,
+program2_stu_incorrect1.py,1,1,1,1,1,1,Illegal 'while True' loop
+program2_stu_incorrect2.py,100,100.0,100,100,100,90.0,
+program2_stu_incorrect3.py,100,0.0,100,100,100,40.0,
