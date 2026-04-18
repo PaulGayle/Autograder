@@ -4,13 +4,13 @@ A Streamlit-powered grading system that automatically evaluates Python assignmen
 
 🚀 Features
 
-Automatic execution & comparison of student code against instructor solutions
+Automatic execution & comparison of student code against instructor solutions.
 
-Strict detection of syntax errors and infinite while True loops
+Strict detection of syntax errors and infinite while True loops.
 
-AST-based analysis of structure, functions, variables, pseudocode, and CSV usage
+AST-based analysis of structure, functions, variables, pseudocode, and CSV usage.
 
-Weighted grading rubrics for Modules 2–5
+Weighted grading rubrics for Modules 2–5.
 
 CSV grade sheet generation (e.g., M2_grades.csv)
 
