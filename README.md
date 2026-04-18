@@ -12,9 +12,9 @@ AST-based analysis of structure, functions, variables, pseudocode, and CSV usage
 
 Weighted grading rubrics for Modules 2–5.
 
-CSV grade sheet generation (e.g., M2_grades.csv)
+CSV grade sheet generation (e.g., M2_grades.csv).
 
-Interactive visualizations for class performance
+Interactive visualizations for class performance.
 
 🧠 How It Works
 
